@@ -1,4 +1,4 @@
-module RandomWrapper
+module SoftRandom
     using SoftBase    
     import Random
     abstract type c__Default_Random end
