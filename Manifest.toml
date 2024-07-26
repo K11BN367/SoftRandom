@@ -188,7 +188,7 @@ uuid = "6462fe0b-24de-5631-8697-dd941f90decc"
 
 [[deps.SoftBase]]
 deps = ["FileIO", "HTTP", "Pkg", "TypeUtils"]
-path = "C:\\Users\\OsW-x\\Desktop\\Temp\\SoftBase"
+path = "../SoftBase"
 uuid = "af0a1cfc-538f-4bb2-b0da-fbf558d56e16"
 version = "0.1.0"
 
