@@ -188,9 +188,7 @@ uuid = "6462fe0b-24de-5631-8697-dd941f90decc"
 
 [[deps.SoftBase]]
 deps = ["FileIO", "HTTP", "Pkg", "TypeUtils"]
-git-tree-sha1 = "eb742ce35055371720e0458152949c1d4cc50405"
-repo-rev = "main"
-repo-url = "https://github.com/K11BN367/SoftBase"
+path = "C:\\Users\\OsW-x\\Desktop\\Temp\\SoftBase"
 uuid = "af0a1cfc-538f-4bb2-b0da-fbf558d56e16"
 version = "0.1.0"
 
